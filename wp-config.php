@@ -29,7 +29,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', 'fuko09phsurxho');
 
 /** MySQL hostname */
-define('DB_HOST', 'swarmdb');
+define('DB_HOST', 'mariadb-mariadb-galera');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
